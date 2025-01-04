@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/CNMengHan/CNMengHan/blob/main/GeGZiO3awAAtAWAvebg.png">
+  <img src="https://github.com/RexMignon/RexMignon/blob/main/request.jpg">
 </p>
