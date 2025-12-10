@@ -10,6 +10,3 @@
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/mignonframework?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/mignonframework)
 
 </div>
-<p align="拜托了,请成为艾尔登(划掉)Kotlin之王">
-  <img src="https://github.com/RexMignon/RexMignon/blob/main/mainKt.gif">
-</p>
