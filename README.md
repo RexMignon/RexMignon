@@ -1,4 +1,3 @@
-## 拜托了,请成为~~艾尔登~~   **`Kotlin之王👑`**
 #### Please, become the ~~Elden~~   **`King of Kotlin👑`**
 <div align="center">
 
