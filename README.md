@@ -13,6 +13,5 @@
     <img src="https://skillicons.dev/icons?i=git,kotlin,docker,c,vim,java,ts,js,wasm,spring,vue,pinia,rust,go,python,flask,ubuntu,html,css,react,androidstudio,cpp,electron,gradle,jenkins,kali,ktor,linux,mysql,powershell,pytorch,qt,redis,vite,webpack" />  
   </a>
 </p>
-
+<img src="https://count.getloli.com/@rexmignon?name=rexmignon&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="400">
 </div>
-![mignonrex](https://count.getloli.com/@mignonrex)
